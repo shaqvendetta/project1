@@ -1,0 +1,17 @@
+body {
+    padding-top: 5rem;
+    background-color: lightblue;
+}
+
+.tocenter {
+    text-align: center;
+}
+
+.userimg {
+    width: 150px;
+    height: 150px;
+
+}
+#spacediv{
+    margin: 15px;
+}
